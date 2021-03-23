@@ -10,7 +10,8 @@
 *** TODO 1.1) Intro to Computer Science
 *** TODO 1.2) Mathematical Thinking in Computr Science
 ** TODO 2) Programming
-*** TODO 2.1) Java Programming: Solving Problems with Software
+*** STRT 2.1) Java Programming: Solving Problems with Software
+STARTED: <2021-03-23 Tue> DEADLINE: <2021-04-18 Sun>
 *** TODO 2.2) Java Programming: Arrays, Lists, and Structured Data
 *** TODO 2.3) Object Oriented Programming in Java
 *** TODO 2.4) Data Structures and Performance
