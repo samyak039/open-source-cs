@@ -1,0 +1,112 @@
+#+TITLE: Readme
+#+Author: Samyak Bardiya
+
+
+
+
+
+* TODO List
+** TODO 1) Computer Science Basics
+*** TODO 1.1) Intro to Computer Science
+*** TODO 1.2) Mathematical Thinking in Computr Science
+** TODO 2) Programming
+*** TODO 2.1) Java Programming: Solving Problems with Software
+*** TODO 2.2) Java Programming: Arrays, Lists, and Structured Data
+*** TODO 2.3) Object Oriented Programming in Java
+*** TODO 2.4) Data Structures and Performance
+*** TODO 2.5) Java Programming: Principles of Software Design
+*** TODO 2.6) Java Programming: Build a Recommendation System
+*** TODO 2.7) Programming Languages, Part A
+*** TODO 2.8) Programming Languages, Part B
+*** TODO 2.9) Programming Languages, Part C
+** TODO 3) Mathematics
+*** TODO 3.1) Calculus 1A: Differentiation
+*** TODO 3.2) Calculus 1B: Integration
+*** TODO 3.3) Calculus 1C: Coordinate Systems & Infinite Series
+*** TODO 3.4) Linear Algebra - Foundations to Frontiers
+*** TODO 3.5) Introduction to Probability and Data
+*** TODO 3.6) Intro to Statistics
+** TODO 4) Systems
+*** TODO 4.1) Build a Moderm Computer from First Principles: From Nand to Tetris
+*** TODO 4.2) Build a Moderm Computer from First Principles: From Nand to Tetris II
+*** TODO 4.3) Introduction to Operating Systems
+** TODO 5) Theory
+*** TODO 5.1) Computer Science: Algorithms, Theory, and Machines
+*** TODO 5.2) Algorithms, Part I
+*** TODO 5.3) Algorithms, Part II
+** TODO 6) Applications
+*** TODO 6.1) Software Engineering: Introduction
+*** TODO 6.2) Machine Learning
+*** TODO 6.3) Database Management Essentials
+*** TODO 6.4) Cryptography I
+** TODO 7) Unix
+*** TODO 7.1) Linux Command Line Basics
+*** TODO 7.2) The Unix Workbench
+
+
+* The Open Source Computer Science Degree
+This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+
+** Computer Science Basics
+
+| S.No. | Courses                                   | School       | Duration | Effort      | Time      | Frequency    | Prerequisites |
+|-------+-------------------------------------------+--------------+----------+-------------+-----------+--------------+---------------|
+|  1.1  | [[https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x][Intro to Computer Science]]                 | Harvard      | 10 weeks | 10-20 hrs/w | 150 hours | self-paced   | none          |
+|  1.2  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof][Mathematical Thinking in Computer Science]] | UC San Diego | 6 weeks  | 2-5 hrs/w   | 54 hours  | once a month | none          |
+
+** Programming
+
+| S.No. | Courses                                              | School | Duration | Effort     | Time     | Frequency     | Prerequisties |
+|-------+------------------------------------------------------+--------+----------+------------+----------+---------------+---------------|
+|  2.1  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming][Java Programming: Solving Problems with Software]]     | Duke   | 4 weeks  | 4-8 hrs/w  | 24 hours | twice a month | none          |
+|  2.2  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-arrays-lists-data][Java Programming: Arrays, Lists, and Structured Data]] | Duke   | 4 weeks  | 4-8 hrs/w  | 24 hours | twice a month | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming][2.1]]           |
+|  2.3  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java][Object Oriented Programming in Java]]                  | Duke   | 6 weeks  | 4-6 hrs/w  | 30 hours | every week    | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-arrays-lists-data][2.2]]           |
+|  2.4  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-structures-optimizing-performance][Data Structures and Performance]]                      | Duke   | 6 weeks  | 6-10 hrs/w | 48 hours | every week    | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java][2.3]]           |
+|  2.5  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-design-principles][Java Programming: Principles of Software Design]]      | Duke   | 4 weeks  | 4-8 hrs/w  | 24 hours | twice a month | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-structures-optimizing-performance][2.4]]           |
+|  2.6  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-recommender][Java Programming: Build a Recommendation System]]      | Duke   | 4 weeks  | 3-6 hrs/w  | 18 hours | once a month  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-design-principles][2.5]]           |
+|  2.7  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages][Programming Languages, Part A]]                        | UW     | 5 weeks  | 8-16 hrs/w | 60 hours | once a month  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-recommender][2.6]]           |
+|  2.8  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-b][Programming Languages, Part B]]                        | UW     | 3 weeks  | 8-16 hrs/w | 36 hours | once a month  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages][2.7]]           |
+|  2.9  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-c][Programming Languages, Part C]]                        | UW     | 3 weeks  | 8-16 hrs/w | 36 hours | once a month  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-b][2.8]]           |
+
+** Mathematics
+
+| S.No. | Courses                                           | School    | Duration | Effort     | Time      | Frequency     | Prerequisties |
+|-------+---------------------------------------------------+-----------+----------+------------+-----------+---------------+---------------|
+|  3.1  | [[https://www.edx.org/course/calculus-1a-differentiation][Calculus 1A: Differentiation]]                      | MIT       | 12 weeks | 6-10 hrs/w | 96 hours  | self-paced    | [[https://www.edx.org/course/precalculus-asux-mat170x][pre-calculus]]  |
+|  3.2  | [[https://www.edx.org/course/calculus-1b-integration][Calculus 1B: Integration]]                          | MIT       | 15 weeks | 6-10 hrs/w | 96 hours  | self-paced    | [[https://www.edx.org/course/calculus-1a-differentiation][3.1]]           |
+|  3.3  | [[https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0][Calculus 1C: Coordinate Systems & Infinite Series]] | MIT       | 8 weeks  | 6-10 hrs/w | 64 hours  | self-paced    | [[https://www.edx.org/course/calculus-1b-integration][3.2]]           |
+|  3.4  | [[https://www.edx.org/course/linear-algebra-foundations-to-frontiers][Linear Algebra - Foundations to Frontiers]]         | UT Austin | 15 weeks | 6-10 hrs/w | 120 hours | self-paced    | [[https://www.edx.org/course/precalculus-asux-mat170x][pre-calculus]]  |
+|  3.5  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro][Introduction to Probability and Data]]              | Duke      | 5 weeks  | 5-7 hrs/w  | 30 hours  | twice a month | none          |
+|  3.6  | [[https://imp.i115008.net/intro-to-statistics][Intro to Statistics ]]                              | Udacity   | 8 weeks  | 5-7 hrs/w  | 48 hours  | self-paced    | none          |
+
+** Systems
+
+| S.No. | Courses                                                               | School                         | Duration | Effort      | Time     | Frequency     | Prerequisties               |
+|-------+-----------------------------------------------------------------------+--------------------------------+----------+-------------+----------+---------------+-----------------------------|
+|  4.1  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbuild-a-computer][Build a Modern Computer from First Principles: From Nand to Tetris]]    | Hebrew University of Jerusalem | 6 weeks  | 5 hrs/w     | 30 hours | twice a month | basic programming knowledge |
+|  4.2  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnand2tetris2][Build a Modern Computer from First Principles: From Nand to Tetris II]] | Hebrew University of Jerusalem | 6 weeks  | 10-15 hrs/w | 75 hours | once a month  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbuild-a-computer][4.1]]                         |
+|  4.3  | [[https://imp.i115008.net/introduction-to-operating-systems][Introduction to Operating Systems]]                                     | Georgia Tech                   | 8 weeks  | 5-8 hrs/w   | 52 hours | self-paced    | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnand2tetris2][4.2]]                         |
+
+** Theory
+
+| S.No. | Courses                                            | School    | Duration | Effort          | Time     | Frequency    | Prerequisties           |
+|-------+----------------------------------------------------+-----------+----------+-----------------+----------+--------------+-------------------------|
+|  5.1  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines][Computer Science: Algorithms, Theory, and Machines]] | Princeton | 10 weeks | 2-5 hours/week  | 35 hours | once a month | [[https://www.edx.org/course/calculus-1a-differentiation][3.1]], basic programming  |
+|  5.2  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1][Algorithms, Part I]]                                 | Princeton | 6 weeks  | 6-12 hours/week | 54 hours | once a month | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines][5.1]]                     |
+|  5.3  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2][Algorithms, Part II]]                                | Princeton | 6 weeks  | 6-12 hours/week | 54 hours | once a month | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1][5.2]]                     |
+
+** Applications
+
+| S.No. | Courses                            | School   | Duration | Effort          | Time     | Frequency     | Prerequisties                    |
+|-------+------------------------------------+----------+----------+-----------------+----------+---------------+----------------------------------|
+|  6.1  | [[https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x][Software Engineering: Introduction]] | UBCx     | 6 weeks  | 8-10 hours/week | 54 hours | self-paced    | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-recommender][2.6]]                              |
+|  6.2  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning][Machine Learning]]                   | Stanford | 11 weeks | 5-7 hours/week  | 66 hours | twice a month | [[https://www.edx.org/course/linear-algebra-foundations-to-frontiers][3.4]]                              |
+|  6.3  | [[https://www.coursera.org/learn/database-management][Database Management Essentials]]     | CU       | 7 weeks  | 4-6 hours/week  | 34 hours | twice a month | basic programming & CS knowledge |
+|  6.4  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto][Cryptography I ]]                    | Stanford | 7 weeks  | 5 hours/week    | 35 hours | once a month  | [[https://www.edx.org/course/linear-algebra-foundations-to-frontiers][3.4]] & [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro][3.5]]                        |
+
+** Unix
+
+| S.No. | Courses                   | School  | Duration | Effort       | Time     | Frequency    | Prerequisties |
+|-------+---------------------------+---------+----------+--------------+----------+--------------+---------------|
+|  7.1  | [[https://imp.i115008.net/linux-command-line-basics][Linux Command Line Basics]] | Udacity | 1 week   | 5 hours/week | 5 hours  | self-paced   | none          |
+|  7.2  | [[https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix][The Unix Workbench]]        | JHU     | 4 weeks  | 4 hours/week | 16 hours | once a month | none          |
